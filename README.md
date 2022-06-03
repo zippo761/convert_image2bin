@@ -1,5 +1,5 @@
 # convert_image2bin
-This module can make convert pdf to image, rotating image, convert image to bin.
+This module can make convert pdf to image, rotating image, convert image to bin if you want better work with OSR.
 ### Example:
 import correct_img
 
